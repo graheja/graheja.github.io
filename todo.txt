@@ -1,0 +1,16 @@
+# TO DO
+
+# make sure email thing works
+# resize images and add to gallery
+
+# DONE
+# add google scholar links to footers
+# change icons in news to other icons
+# research teaching etc - onload
+# add tab buttons
+# teaching page
+
+# MAYBE
+# timeline
+# google scholar citations widget
+# embed videos
