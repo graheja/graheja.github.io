@@ -18,7 +18,7 @@
 			<div id="wrapper" class="divided">
 
 				<top-header>
-					<a href="#" class="button small" style="float: left;">Garima Raheja</a>
+					<a href="index.html" class="button small" style="float: left;">Garima Raheja</a>
 					<a href="#contact" class="button small icon solid fa-paper-plane" style="float: right;">Contact</a>
 					<a href="teaching.html" class="button small" style="float: right;">Teaching</a>
 					<a href="policy.html" class="button small" style="float: right;">Policy</a>
@@ -195,32 +195,34 @@
 						</div>
 					</section>
 
-				<!-- Seven -->
+				<!-- Contact Form -->
 					<section class="wrapper style1 align-center" id="contact">
 						<div class="inner medium">
 							<h2>Get in touch</h2>
-							<form method="post" action="#">
-								<div class="fields">
-									<div class="field half">
-										<label for="name">Name</label>
-										<input type="text" name="name" id="name" value="" />
+							<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/meqyqvll" method="post">
+									<div class="fields">
+										<div class="field half">
+								    	<label for="full-name">Name</label>
+								    	<input type="text" name="name" id="full-name" placeholder=" " required="">
+										</div>
+
+										<div class="field half">
+											<label for="email-address">Email Address</label>
+								    	<input type="email" name="_replyto" id="email-address" placeholder="  " required="">
+										</div>
+
+										<div class="field">
+											<label for="message">Message</label>
+							    		<textarea rows="5" name="message" id="message" placeholder=" " required=""></textarea>
 									</div>
-									<div class="field half">
-										<label for="email">Email</label>
-										<input type="email" name="email" id="email" value="" />
-									</div>
-									<div class="field">
-										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="6"></textarea>
-									</div>
+									<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
 								</div>
-								<ul class="actions special">
-									<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
-								</ul>
+							  <input type="submit" value="Submit">
 							</form>
 
-						</div>
 					</section>
+
+
 
 				<!-- Footer -->
 					<footer class="wrapper style1 align-center">
