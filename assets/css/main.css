@@ -66,6 +66,10 @@ top-header {
   }
 
 @media (max-width: 768px) {
+
+		top-header {
+			padding: 5px;
+		}
     header div {
         flex-wrap: nowrap;
     }
@@ -152,6 +156,9 @@ input, select, textarea {
 			html {
 				font-size: 14pt;
 			}
+			top-header {
+				padding: 10px;
+			}
 
 		}
 
@@ -159,6 +166,9 @@ input, select, textarea {
 
 			html {
 				font-size: 12pt;
+			}
+			top-header {
+				padding: 10px;
 			}
 
 		}
@@ -168,6 +178,9 @@ input, select, textarea {
 			html {
 				font-size: 11pt;
 			}
+			top-header {
+				padding: 10px;
+			}
 
 		}
 
@@ -175,6 +188,9 @@ input, select, textarea {
 
 			html {
 				font-size: 10pt;
+			}
+			top-header {
+				padding: 10px;
 			}
 
 		}

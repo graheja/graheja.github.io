@@ -1,8 +1,7 @@
 # TO DO
-
-
 # resize images and add to gallery
-# check links
+# add brenda photo
+
 
 # DONE
 # add google scholar links to footers
@@ -11,11 +10,12 @@
 # add tab buttons
 # teaching page
 # make sure email thing works
-# fix buttons on mobile
+
+# check links
 
 # MAYBE
+# media page with embeds
 # timeline
 # google scholar citations widget
 # embed videos
-
-
+# fix buttons on mobile - idk
