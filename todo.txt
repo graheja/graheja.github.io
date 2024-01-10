@@ -1,6 +1,7 @@
 # TO DO
-# fix header buttons on mobile going to next line
-# fix margin on top of policy and teaching pages
+# resize images and add to gallery
+# add brenda photo
+
 
 
 
@@ -11,12 +12,17 @@
 # add tab buttons
 # teaching page
 # make sure email thing works
-# resize images and add to gallery
+# add top margin to policy and teaching
+# garima raheja on home rename link
+# make contact button in header link works
+# add csa group
+
+
 # check links
 
-# SOMEDAY
+# MAYBE
 # media page with embeds
 # timeline
 # google scholar citations widget
 # embed videos
-
+# fix buttons on mobile - idk
