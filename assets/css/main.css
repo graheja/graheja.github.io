@@ -37,6 +37,16 @@ ol, ul {
 	list-style: none;
 }
 
+@media (max-width: 767px) {
+            /* Media query for screens with a maximum width of 767 pixels (typical for mobile devices) */
+            #teaching-page h2 {
+                margin-top: 10px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
+            }
+						#policy-page h2 {
+                margin-top: 40px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
+            }
+        }
+
 
 blockquote, q {
 	quotes: none;
