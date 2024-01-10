@@ -37,15 +37,7 @@ ol, ul {
 	list-style: none;
 }
 
-@media (max-width: 767px) {
-            /* Media query for screens with a maximum width of 767 pixels (typical for mobile devices) */
-            #teaching-page h2 {
-                margin-top: 400px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
-            }
-						#policy-page h2 {
-                margin-top: 1000px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
-            }
-}
+
 
 
 
@@ -191,6 +183,12 @@ input, select, textarea {
 			}
 			top-header {
 				padding: 10px;
+			}
+			#teaching-page h2 {
+					margin-top: 400px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
+			}
+			#policy-page h2 {
+					margin-top: 1000px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
 			}
 
 		}
