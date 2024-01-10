@@ -40,12 +40,19 @@ ol, ul {
 @media (max-width: 767px) {
             /* Media query for screens with a maximum width of 767 pixels (typical for mobile devices) */
             #teaching-page h2 {
-                margin-top: 10px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
+                margin-top: 40px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
             }
 						#policy-page h2 {
                 margin-top: 40px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
             }
-        }
+}
+
+@media (max-width: 767px) {
+				            /* Media query for screens with a maximum width of 767 pixels (typical for mobile devices) */
+				            button {
+				                font-size: 2px; /* Decrease font size for the button on mobile */
+				            }
+}
 
 
 blockquote, q {
