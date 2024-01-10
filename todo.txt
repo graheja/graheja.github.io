@@ -1,4 +1,6 @@
 # TO DO
+# fix header buttons on mobile going to next line
+# fix margin on top of policy and teaching pages
 
 
 
@@ -17,4 +19,4 @@
 # timeline
 # google scholar citations widget
 # embed videos
-# fix buttons on mobile - idk
+
