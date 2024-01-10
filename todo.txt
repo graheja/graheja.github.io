@@ -1,6 +1,5 @@
 # TO DO
-# resize images and add to gallery
-# add brenda photo
+
 
 
 # DONE
@@ -10,10 +9,10 @@
 # add tab buttons
 # teaching page
 # make sure email thing works
-
+# resize images and add to gallery
 # check links
 
-# MAYBE
+# SOMEDAY
 # media page with embeds
 # timeline
 # google scholar citations widget

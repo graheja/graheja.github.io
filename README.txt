@@ -1,3 +1,11 @@
+Welcome! This is the personal website of Garima Raheja, based on the Story HTML5 UP Template, with customizations made for headers and adding a Formspree-based contact form.
+
+
+++++++++++++++++++++++++++
+
+
+
+
 Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -35,3 +43,6 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+++++++++++++++++++++++++++
