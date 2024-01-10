@@ -47,12 +47,6 @@ ol, ul {
             }
 }
 
-@media (max-width: 767px) {
-				            /* Media query for screens with a maximum width of 767 pixels (typical for mobile devices) */
-				            button {
-				                font-size: 2px; /* Decrease font size for the button on mobile */
-				            }
-}
 
 
 blockquote, q {
