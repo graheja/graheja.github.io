@@ -38,9 +38,6 @@ ol, ul {
 }
 
 
-
-
-
 blockquote, q {
 	quotes: none;
 }
@@ -64,7 +61,7 @@ top-header {
     background-color: #ffffff;
     color: #000000;
     padding: 10px;
-		font-size: 10pt;
+		font-size: 14pt;
 
   }
 
@@ -184,12 +181,6 @@ input, select, textarea {
 			top-header {
 				padding: 10px;
 			}
-			#teaching-page h2 {
-					margin-top: 400px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
-			}
-			#policy-page h2 {
-					margin-top: 1000px; /* Adds 10px of space above the h2 heading on mobile for the teaching.html page */
-			}
 
 		}
 
@@ -199,7 +190,7 @@ input, select, textarea {
 				font-size: 10pt;
 			}
 			top-header {
-				padding: 10px;
+				padding: 5px;
 			}
 
 		}
