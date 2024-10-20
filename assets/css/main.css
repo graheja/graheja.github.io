@@ -53,6 +53,8 @@ table {
 }
 
 top-header {
+		display: flex;
+		justify-content: space-between;
     position: fixed;
 		z-index:1;
     top: 0;
@@ -62,11 +64,13 @@ top-header {
     color: #000000;
     padding: 10px;
 		font-size: 14pt;
-
   }
 
-@media (max-width: 768px) {
+	top-header .links {
+		height: 0;
+	}
 
+@media (max-width: 768px) {
 		top-header {
 			padding: 5px;
 		}
@@ -182,6 +186,9 @@ input, select, textarea {
 				padding: 10px;
 			}
 
+			top-header .button.small {
+				padding: 0 2px;
+			}
 		}
 
 		@media screen and (max-width: 360px) {
@@ -192,7 +199,6 @@ input, select, textarea {
 			top-header {
 				padding: 5px;
 			}
-
 		}
 
 	body {
